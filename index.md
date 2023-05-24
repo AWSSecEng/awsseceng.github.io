@@ -2,37 +2,25 @@
 title: Welcome
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+The Open Cybersecurity Schema Framework is an open-source project, delivering an extensible framework for developing schemas, along with a vendor-agnostic core security schema.  Vendors and other data producers can adopt and extend the schema for their specific domains. Data engineers can map differing schemas to help security teams simplify data ingestion and normalization, so that data scientists and analysts can work with a common language for threat detection and investigation. The goal is to provide an open standard, adopted in any environment, application, or solution, while complementing existing security standards and processes.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+### OVERVIEW
+The framework is made up of a set of data types, an attribute dictionary, and the taxonomy. It is not restricted to the cybersecurity domain nor to events, however the initial focus of the framework has been a schema for cybersecurity events.  OCSF is agnostic to storage format, data collection and ETL processes.  The core schema for cybersecurity events is intended to be agnostic to implementations.  The schema framework definition files and the resulting normative schema are written as JSON.
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+Refer to the white paper [Understanding the Open Cybersecurity Schema Framework](https://github.com/ocsf/ocsf-docs/blob/main/Understanding%20OCSF.pdf) for an introduction to the framework and schema.  A schema browser for the cybersecurity schema can be found at [OCSF Schema](https://schema.ocsf.io), where the user can easily navigate the schema, apply profiles and extensions, and browse the attributes, objects and event classes.
 
-### Getting Started
+### FAQ
 
-Getting a message sent is quick and easy with ChatApp:
+We are maintaining a list of [FAQs here](https://github.com/ocsf/ocsf-docs/tree/main/FAQs) 
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
+### CONTRIBUTORS
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+OCSF has a Steering Committee and Maintainers in addtion to Contributors.  Interested in contributing to the OCSF project?  Please check out the documentation on how in the [OCSF Contribution Guide](https://github.com/ocsf/ocsf-schema/blob/main/CONTRIBUTING.md) file.
 
-### Features
+### SLACK WORKSPACE
 
-Explore more of ChatApp by reading about our features:
+The project has a Slack workspace where contributors discuss issues and topics.  If you would like to be invited to join, send an email to info@ocsf.io.  Tell us about interests and introduce yourself to the group after you accept an invite.
 
-#### Media
+### LICENSE
 
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+OCSF is licensed under the Apache License 2.0.  Check out the LICENSE file to understand the requirements to use the artifacts of the project.
