@@ -3,7 +3,7 @@
 
 title: Open Cybersecurity Schema Framework (OCSF)
 url: "https://ocsf.io"
-baseurl:
+baseurl: "https://awsseceng.github.io"
 google_analytics_key:
 show_full_navigation: true
 

@@ -1,6 +1,6 @@
 ---
-title: Phone
-category: Contact Syncing
+title: External Resources
+category: Resources
 order: 2
 ---
 

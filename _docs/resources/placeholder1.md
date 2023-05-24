@@ -1,6 +1,6 @@
 ---
-title: Facebook
-category: Contact Syncing
+title: Github Repositories
+category: Resources
 order: 1
 ---
 
