@@ -4,8 +4,6 @@ category: Resources
 order: 3
 ---
 
-# Schema FAQ
-This document answers common questions about how to use the OCSF Schema
 
 ## How do I create a typical OCSF event?
 Depending on the type of event, a data producer or data mapper should first determine what event class best suits your event.  Start with the OCSF category to narrow down the choices.  For example, an endpoint security product would likely choose an event class from the System Activity category, for example, File System Activity for an AV product.  Every event class has an `activity_id` enumeration which narrows down the intended activity of the event.  Sometimes these are simple CRUD activities, but often they are more specific to the class, such as `Logon` for the `Authentication` class in the `Identity and Access Management` category.
