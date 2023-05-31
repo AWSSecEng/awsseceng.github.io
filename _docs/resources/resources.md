@@ -1,13 +1,18 @@
 ---
-title: Github Repositories
+title: External Resources
 category: Resources
-order: 1
+order: 2
 ---
 
-While the primary organization overview for OCSF can be viewed on Github [here](/https://github.com/ocsf), there are a variety of repositories which may be of specific interest which are outlined below.
+Sync your phone contacts with ChatApp. ChatApp saves your phone contacts and adds anyone with an email address to your contact list!
 
-| Repository | Description |
-| [OCSF Schema](/https://github.com/ocsf/ocsf-schema) | This repository defines the Open Cybersecurity Schema Framework (OCSF) schema. OCSF is a framework for creating schemas and it also delivers a cybersecurity event schema built with the framework. |
-| [OCSF Server](/https://github.com/ocsf/ocsf-server) | This repository contains the Open Cybersecurity Schema Framework (OCSF) Schema Server source code. The schema server is an HTTP server that provides a convenient way to browse and use the OCSF schema. |
-| [Examples](/https://github.com/ocsf/examples) | This repo contains examples of raw events and possible translations to the OCSF schema. |
-| [OCSF Documentation](/https://github.com/ocsf/ocsf-docs) | This repository serves as another option outside of this site for documentation resources. |
+> Syncing contacts with your phone restores any previously synced contacts.
+
+To sync your contacts:
+
+1. Open your *User Settings* on your phone app
+2. Select the **Sync Contacts** button
+3. Authorise ChatApp permissions
+4. Select some or all of your contacts
+
+![](//placehold.it/800x600)
